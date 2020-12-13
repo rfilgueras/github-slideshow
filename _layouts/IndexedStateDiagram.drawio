@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T02:37:52.274Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Z0jcHNpNypwk1-AHIFAr" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T02:41:54.911Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Gpk-bI-uDSZTVERoVwEb" version="13.10.9" type="github">
   <diagram id="myGzlP0sKa4aTq20Of19" name="Page-1">
-    <mxGraphModel dx="1561" dy="1144" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2186" dy="1602" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1574" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=1;shape=mxgraph.arrows2.arrow;dy=0.63;dx=75.71;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3032" y="167.81" width="224" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-1573" value="&lt;b&gt;Users continue&lt;br&gt;removing &lt;br&gt;recipes&lt;br&gt;&lt;/b&gt;&lt;br&gt;See 21" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-1573" value="&lt;b&gt;Users continue&lt;br&gt;removing &lt;br&gt;recipes&lt;br&gt;&lt;/b&gt;&lt;br&gt;See 22" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2957" y="201.81" width="102.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1527" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=1;shape=mxgraph.arrows2.arrow;dy=0.34;dx=75.28;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2720" y="166.81" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-1526" value="&lt;b&gt;Users remove&lt;br&gt;&amp;nbsp;a recipe&lt;br&gt;&lt;/b&gt;&lt;br&gt;See 20" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-1526" value="&lt;b&gt;Users remove&lt;br&gt;&amp;nbsp;a recipe&lt;br&gt;&lt;/b&gt;&lt;br&gt;See 21" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2649" y="201.81" width="102.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1510" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=1;shape=mxgraph.arrows2.arrow;dy=0.46;dx=40.71;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="t5ibN4e7BagKxaCl4zuI-179" value="Users are directed to the search screen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1296.94" y="146.81" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-210" value="User sees a picture of a recipe along with the recipe information:&amp;nbsp;&lt;br&gt;a. print time&lt;br&gt;b. cook time&lt;br&gt;c. Ratings&lt;br&gt;d. description of the recipe&lt;br&gt;e. serving size&lt;br&gt;f. ingredients needed to print it.&lt;br&gt;There are SIX buttons users can tap.&amp;nbsp;&lt;br&gt;Previous, Next, 3D Print, Add to Favorites, Zoom in, Hidden Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-210" value="User sees a picture of a recipe along with the recipe information:&amp;nbsp;&lt;br&gt;a. print time&lt;br&gt;b. cook time&lt;br&gt;c. Ratings&lt;br&gt;d. description of the recipe&lt;br&gt;e. serving size&lt;br&gt;f. ingredients needed to print it.&lt;br&gt;There are SEVEN buttons users can tap.&amp;nbsp;&lt;br&gt;Previous, Next, 3D Print, Add to Favorites, Zoom in, Printing Queue, Hidden Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="377.12" y="808" width="203.69" height="54.36" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-211" value="Users see another recipe with different recipe information. Users can choose from buttons:&lt;br&gt;Previous, Next, 3D Print, Add to Favorites, Zoom In, Hidden Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -235,8 +235,8 @@
         <mxCell id="t5ibN4e7BagKxaCl4zuI-189" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t5ibN4e7BagKxaCl4zuI-410">
           <mxGeometry x="46.405" y="-46.405" width="135" height="227.81" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-190" value="&lt;font style=&quot;font-size: 9px&quot;&gt;logo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t5ibN4e7BagKxaCl4zuI-410">
-          <mxGeometry x="189.19" y="8.79" width="22.59" height="8" as="geometry" />
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-190" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Printing&lt;br&gt;Queue&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t5ibN4e7BagKxaCl4zuI-410">
+          <mxGeometry x="186" y="8.79" width="25.78" height="8" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-319" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=12;fontColor=#000000;strokeColor=none;" vertex="1" parent="t5ibN4e7BagKxaCl4zuI-410">
           <mxGeometry x="9.190000000000001" y="7.579999999999999" width="14" height="14" as="geometry" />
@@ -1113,7 +1113,7 @@
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-904" value="" style="endArrow=none;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="2527" as="sourcePoint" />
+            <mxPoint x="404" y="2855" as="sourcePoint" />
             <mxPoint x="403" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1553,13 +1553,13 @@
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1477" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=1;fillColor=#ffffff;fontSize=12;fontColor=#000000;rotation=-45;" vertex="1" parent="t5ibN4e7BagKxaCl4zuI-1379">
           <mxGeometry x="184.04499999999996" y="19.004999999999654" width="11" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-1508" value="&lt;b&gt;Users taps Edit Favorites&lt;/b&gt;&lt;br&gt;&lt;br&gt;See 19" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-1508" value="&lt;b&gt;Users taps Edit Favorites&lt;/b&gt;&lt;br&gt;&lt;br&gt;See 20" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2385" y="203.81" width="102.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1509" value="Users can remove recipes through the Minus Button.&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2493.57" y="233.81" width="127.43" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t5ibN4e7BagKxaCl4zuI-1511" value="&lt;font style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;19&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-1511" value="&lt;font style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;20&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2365" y="348.03000000000003" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-1522" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;FAVORITES&lt;br&gt;SCREEN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
@@ -2467,6 +2467,18 @@
         </mxCell>
         <mxCell id="t5ibN4e7BagKxaCl4zuI-2001" value="&lt;font style=&quot;font-size: 7px&quot; color=&quot;#ffffff&quot;&gt;Preview&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2641.25" y="1497" width="28.59" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-2003" value="" style="endArrow=classic;html=1;strokeWidth=1;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="403.66" y="2855" as="sourcePoint" />
+            <mxPoint x="501.66" y="2855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-2004" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;IF USER TAPS Printing Queue Icon&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="532" y="2796" width="167.14" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ibN4e7BagKxaCl4zuI-2005" value="&lt;font style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;19&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="658.55" y="2912" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

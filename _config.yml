@@ -18,9 +18,10 @@ plugins:
 
 ## personalize your slide show
 theme: jekyll-theme-minimal
-title: Your Name
+title: Rhona Filgueras
 description: Programming Portfolio
 logo: image/logo address
+gem "github-pages", group: :jekyll_plugins
 
 title:       github-slideshow
 author:      GitHubTeacher

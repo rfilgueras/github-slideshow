@@ -17,6 +17,11 @@ plugins:
   - jemoji
 
 ## personalize your slide show
+theme: jekyll-theme-minimal
+title: Your Name
+description: Programming Portfolio
+logo: image/logo address
+
 title:       github-slideshow
 author:      GitHubTeacher
 description: A fun activity for learning Git and GitHub.
@@ -114,3 +119,4 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+
